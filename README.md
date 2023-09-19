@@ -22,7 +22,7 @@
 </a>
 
 ### 👀 Active Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=priyanshulomesh&repo=CampusFoodRestaurant&theme=radical)](https://github.com/priyanshulomesh/CampusFoodRestaurant)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=priyanshulomesh&repo=CampusFoodRestaurant&theme=radical "Intra campus food delivery Android application.")](https://github.com/priyanshulomesh/CampusFoodRestaurant)
 
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/priyanshulomesh?theme=dark&font=Noto%20Sans%20Display&ext=contest) 
