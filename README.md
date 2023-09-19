@@ -27,6 +27,7 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/priyanshulomesh?theme=dark&font=Noto%20Sans%20Display&ext=contest) 
 
+---
 <p align="center"> 
   <b>Thanks for visiting :heart:</b>
   <br>
