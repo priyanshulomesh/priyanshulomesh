@@ -23,7 +23,7 @@
 
 
 ### 👀 Active Repo
-[![priyanshulomesh's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=priyanshulomesh&repo=CampusFoodRestaurant&border_radius=10&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![priyanshulomesh's GitHub stats](https://github-readme-stats.vercel.app/api/pin/?username=priyanshulomesh&repo=CampusFoodRestaurant&border_radius=10&theme=dark)](https://github.com/priyanshulomesh/CampusFoodRestaurant)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/priyanshulomesh?theme=dark&font=Noto%20Sans%20Display&ext=contest) 
 
