@@ -31,5 +31,6 @@
 <p align="center"> 
   <b>Thanks for visiting :heart:</b>
   <br>
+<!--   <img src="https://komarev.com/ghpvc/?username=priyanshulomesh&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu" />  -->
   <img src="https://profile-counter.glitch.me/priyanshulomesh/count.svg" />
 </p>
